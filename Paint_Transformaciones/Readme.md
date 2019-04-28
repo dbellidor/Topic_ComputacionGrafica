@@ -1,2 +1,2 @@
- Laboratorio  Transformaciones \n
+ Laboratorio  Transformaciones-
  Diego Bellido Ramos
